@@ -17,3 +17,14 @@ h1, h6{
   justify-content: center;
   padding-top: 30px;
 }
+form {
+  padding: 10px;
+}
+button {
+  margin-top: 15px;
+}
+
+.log {
+  display: flex;
+  justify-content: space-around;
+}
